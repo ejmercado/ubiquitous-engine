@@ -1,1 +1,1 @@
-# I'm a Git repository
+# I'm not a git repository
